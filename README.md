@@ -2,6 +2,8 @@
 AI & Data Analytics Professional
 
 <h2>👨‍💻 Projects</h2>
+ <b> Startup Projects: </b>
+  
  <b> LLM Projects: </b>
   
 
